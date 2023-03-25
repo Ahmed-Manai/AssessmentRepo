@@ -1,0 +1,15 @@
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/bin/Debug/net7.0/closestToZero
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/bin/Debug/net7.0/closestToZero.deps.json
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/bin/Debug/net7.0/closestToZero.runtimeconfig.json
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/bin/Debug/net7.0/closestToZero.dll
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/bin/Debug/net7.0/closestToZero.pdb
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/closestToZero.csproj.AssemblyReference.cache
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/closestToZero.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/closestToZero.AssemblyInfoInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/closestToZero.AssemblyInfo.cs
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/closestToZero.csproj.CoreCompileInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/closestToZero.dll
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/refint/closestToZero.dll
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/closestToZero.pdb
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/closestToZero.genruntimeconfig.cache
+/workspaces/AssessmentRepo/C-Sharp/closestToZero/obj/Debug/net7.0/ref/closestToZero.dll

@@ -1,0 +1,15 @@
+/workspaces/AssessmentRepo/C-Sharp/equal21/bin/Debug/net7.0/equal21
+/workspaces/AssessmentRepo/C-Sharp/equal21/bin/Debug/net7.0/equal21.deps.json
+/workspaces/AssessmentRepo/C-Sharp/equal21/bin/Debug/net7.0/equal21.runtimeconfig.json
+/workspaces/AssessmentRepo/C-Sharp/equal21/bin/Debug/net7.0/equal21.dll
+/workspaces/AssessmentRepo/C-Sharp/equal21/bin/Debug/net7.0/equal21.pdb
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/equal21.csproj.AssemblyReference.cache
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/equal21.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/equal21.AssemblyInfoInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/equal21.AssemblyInfo.cs
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/equal21.csproj.CoreCompileInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/equal21.dll
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/refint/equal21.dll
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/equal21.pdb
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/equal21.genruntimeconfig.cache
+/workspaces/AssessmentRepo/C-Sharp/equal21/obj/Debug/net7.0/ref/equal21.dll

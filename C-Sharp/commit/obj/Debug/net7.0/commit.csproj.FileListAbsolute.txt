@@ -1,0 +1,15 @@
+/workspaces/AssessmentRepo/C-Sharp/commit/bin/Debug/net7.0/commit
+/workspaces/AssessmentRepo/C-Sharp/commit/bin/Debug/net7.0/commit.deps.json
+/workspaces/AssessmentRepo/C-Sharp/commit/bin/Debug/net7.0/commit.runtimeconfig.json
+/workspaces/AssessmentRepo/C-Sharp/commit/bin/Debug/net7.0/commit.dll
+/workspaces/AssessmentRepo/C-Sharp/commit/bin/Debug/net7.0/commit.pdb
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/commit.csproj.AssemblyReference.cache
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/commit.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/commit.AssemblyInfoInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/commit.AssemblyInfo.cs
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/commit.csproj.CoreCompileInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/commit.dll
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/refint/commit.dll
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/commit.pdb
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/commit.genruntimeconfig.cache
+/workspaces/AssessmentRepo/C-Sharp/commit/obj/Debug/net7.0/ref/commit.dll

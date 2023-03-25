@@ -1,0 +1,15 @@
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/GetSuperCustomers.csproj.AssemblyReference.cache
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/GetSuperCustomers.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/GetSuperCustomers.AssemblyInfoInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/GetSuperCustomers.AssemblyInfo.cs
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/GetSuperCustomers.csproj.CoreCompileInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/bin/Debug/net7.0/GetSuperCustomers
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/bin/Debug/net7.0/GetSuperCustomers.deps.json
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/bin/Debug/net7.0/GetSuperCustomers.runtimeconfig.json
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/bin/Debug/net7.0/GetSuperCustomers.dll
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/bin/Debug/net7.0/GetSuperCustomers.pdb
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/GetSuperCustomers.dll
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/refint/GetSuperCustomers.dll
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/GetSuperCustomers.pdb
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/GetSuperCustomers.genruntimeconfig.cache
+/workspaces/AssessmentRepo/C-Sharp/GetSuperCustomers/obj/Debug/net7.0/ref/GetSuperCustomers.dll

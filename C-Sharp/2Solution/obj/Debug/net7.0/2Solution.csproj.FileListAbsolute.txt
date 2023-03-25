@@ -1,0 +1,15 @@
+/workspaces/AssessmentRepo/C-Sharp/2Solution/bin/Debug/net7.0/2Solution
+/workspaces/AssessmentRepo/C-Sharp/2Solution/bin/Debug/net7.0/2Solution.deps.json
+/workspaces/AssessmentRepo/C-Sharp/2Solution/bin/Debug/net7.0/2Solution.runtimeconfig.json
+/workspaces/AssessmentRepo/C-Sharp/2Solution/bin/Debug/net7.0/2Solution.dll
+/workspaces/AssessmentRepo/C-Sharp/2Solution/bin/Debug/net7.0/2Solution.pdb
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/2Solution.csproj.AssemblyReference.cache
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/2Solution.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/2Solution.AssemblyInfoInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/2Solution.AssemblyInfo.cs
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/2Solution.csproj.CoreCompileInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/2Solution.dll
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/refint/2Solution.dll
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/2Solution.pdb
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/2Solution.genruntimeconfig.cache
+/workspaces/AssessmentRepo/C-Sharp/2Solution/obj/Debug/net7.0/ref/2Solution.dll

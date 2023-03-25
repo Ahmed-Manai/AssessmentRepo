@@ -1,0 +1,15 @@
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/bin/Debug/net7.0/stringWithParenthesesBrackets
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/bin/Debug/net7.0/stringWithParenthesesBrackets.deps.json
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/bin/Debug/net7.0/stringWithParenthesesBrackets.runtimeconfig.json
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/bin/Debug/net7.0/stringWithParenthesesBrackets.dll
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/bin/Debug/net7.0/stringWithParenthesesBrackets.pdb
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/stringWithParenthesesBrackets.csproj.AssemblyReference.cache
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/stringWithParenthesesBrackets.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/stringWithParenthesesBrackets.AssemblyInfoInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/stringWithParenthesesBrackets.AssemblyInfo.cs
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/stringWithParenthesesBrackets.csproj.CoreCompileInputs.cache
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/stringWithParenthesesBrackets.dll
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/refint/stringWithParenthesesBrackets.dll
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/stringWithParenthesesBrackets.pdb
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/stringWithParenthesesBrackets.genruntimeconfig.cache
+/workspaces/AssessmentRepo/C-Sharp/stringWithParenthesesBrackets/obj/Debug/net7.0/ref/stringWithParenthesesBrackets.dll
