@@ -1,0 +1,15 @@
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/twoSum.csproj.AssemblyReference.cache
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/twoSum.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/twoSum.AssemblyInfoInputs.cache
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/twoSum.AssemblyInfo.cs
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/twoSum.csproj.CoreCompileInputs.cache
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/bin/Debug/net7.0/twoSum
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/bin/Debug/net7.0/twoSum.deps.json
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/bin/Debug/net7.0/twoSum.runtimeconfig.json
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/bin/Debug/net7.0/twoSum.dll
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/bin/Debug/net7.0/twoSum.pdb
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/twoSum.dll
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/refint/twoSum.dll
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/twoSum.pdb
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/twoSum.genruntimeconfig.cache
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/twoSum/obj/Debug/net7.0/ref/twoSum.dll

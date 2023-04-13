@@ -1,0 +1,15 @@
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/add2Num.csproj.AssemblyReference.cache
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/add2Num.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/add2Num.AssemblyInfoInputs.cache
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/add2Num.AssemblyInfo.cs
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/add2Num.csproj.CoreCompileInputs.cache
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/bin/Debug/net7.0/add2Num
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/bin/Debug/net7.0/add2Num.deps.json
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/bin/Debug/net7.0/add2Num.runtimeconfig.json
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/bin/Debug/net7.0/add2Num.dll
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/bin/Debug/net7.0/add2Num.pdb
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/add2Num.dll
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/refint/add2Num.dll
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/add2Num.pdb
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/add2Num.genruntimeconfig.cache
+/workspaces/AssessmentRepo/leetCode/C-sharp_leet/add2Num/obj/Debug/net7.0/ref/add2Num.dll
